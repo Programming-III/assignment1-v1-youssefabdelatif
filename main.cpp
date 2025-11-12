@@ -10,6 +10,9 @@ using namespace std;
 
 // ============== MAIN FUNCTION ==============
 int main() {
+    Enclosure(8,20,35);
+vistor("mohamed",3);
+
     
     
     return 0;
